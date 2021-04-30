@@ -1,3 +1,3 @@
 # My Amazon Clone using react
 
-[Imgur](https://imgur.com/07rhtyc.png)
+![Imgur Image](https://imgur.com/07rhtyc.png)
