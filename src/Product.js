@@ -21,8 +21,7 @@ function Product({title, image, price, rating}) {
           </div>
           <img 
               src={image}
-              alt=""
-          />
+              alt="" />
           <button>Add to basket</button>
         </div>
     )
